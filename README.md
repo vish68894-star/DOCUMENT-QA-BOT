@@ -213,5 +213,5 @@ rank_bm25
 
 ## Developed by
 
-K Vishwajit — Mechatronics Engineering, VIT Chennai
+K Vishwajit
 Internship Project — June/July 2026
