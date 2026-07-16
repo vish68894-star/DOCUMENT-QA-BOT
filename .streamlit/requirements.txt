@@ -1,0 +1,14 @@
+DocumentQA/
+├── .streamlit/
+│   └── config.toml
+├── 01_ingestion.py
+├── 02_chunking.py
+├── 03_embeddings.py
+├── 04_retrieval.py
+├── 05_qa.py
+├── 06_airllm_test.py
+├── airllm_quicktest.py
+├── airllm_server.py
+├── app.py
+├── requirements.txt
+└── README.md
